@@ -3,6 +3,14 @@
 ## Overview
 This project is an interactive Excel dashboard built using Pivot Tables, Pivot Charts, and Slicers to analyze sales performance.
 
+## Business Recommendations
+Based on dashboard findings:
+
+- Analyze and replicate successful sales strategies from the West region in lower-performing regions.
+- Increase promotion of high-performing products to drive revenue growth.
+- Diversify product offerings to reduce dependency on a small group of revenue-generating products.
+- Monitor KPI trends regularly to support proactive business decision-making.
+
 ## Features
 - KPI metrics (Total Sales, Profit, Orders, Average Order Value)
 - Monthly sales trend analysis
